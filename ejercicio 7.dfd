@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+3
+sum
+1
+0
+3
+aux
+1
+0
+9
+1
+12
+sum > 500000
+5
+1
+1
+n
+6
+1
+3
+sum
+5
+sum+n
+7
+0
+1
+7
+n > aux
+13
+6
+1
+3
+aux
+1
+n
+13
+11
+4
+1
+56
+' Producto más caro ', aux , ' total de la compra ' ,sum
+1
