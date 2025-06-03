@@ -1,0 +1,109 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Digite su edad'
+5
+1
+1
+e
+7
+0
+1
+16
+e>=15 and e<=30 
+4
+1
+22
+'Tienes 1 oportunidad'
+4
+1
+18
+'Digite un numero'
+5
+1
+2
+n1
+7
+0
+1
+15
+n1>0 and n1<100
+13
+7
+0
+1
+13
+n1=7 or n1=15
+4
+1
+10
+'Perdiste'
+13
+4
+1
+9
+'Ganaste'
+13
+13
+13
+4
+1
+26
+'Tienes dos oportunidades'
+4
+1
+18
+'Digite un numero'
+5
+1
+1
+n
+7
+0
+1
+13
+n>0 and n<100
+13
+7
+0
+1
+11
+n=7 or n=15
+4
+1
+28
+'Perdiste, Intenta de nuevo'
+5
+1
+1
+n
+7
+0
+1
+11
+n=7 or n=15
+4
+1
+28
+'Perdiste, Intenta de nuevo'
+13
+4
+1
+9
+'Ganaste'
+13
+13
+4
+1
+9
+'Ganaste'
+13
+13
+13
+1
